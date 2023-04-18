@@ -1,6 +1,6 @@
 {
-    "store_version": "2.0.1",
-    "minimum_version": "2.0.1",
-    "release_note_vf": "",
-    "release_note_en": ""
+    "store_version": "2.0.2",
+    "minimum_version": "2.0.2",
+    "release_note_vf": "Correction du bug qui faisait planter systématiquement l'application",
+    "release_note_en": "Fixed the bug that caused the application to crash systematically"
 }
