@@ -1,6 +1,6 @@
 {
     "store_version": "1.0.4",
-    "minimum_version": "1.0.1",
+    "minimum_version": "1.0.4",
     "release_note_vf": "Ajout de conseils à la page d'accueil\nCorrection du chargement infini lorsqu'il n'y a pas de contenu",
     "release_note_en": "Addition of tips to the homepage\nFixed infinite loading when there is no content"
 }
