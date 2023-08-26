@@ -1,6 +1,6 @@
 {
-    "store_version": "3.0.0",
-    "minimum_version": "3.0.0",
+    "store_version": "3.1.2",
+    "minimum_version": "3.1.2",
     "release_note_vf": "Optimisation de l'application\nCorrection de bugs\nOptimisation de la sécurité ",
     "release_note_en": "Application optimization\nBug fixes\nSecurity optimization"
 }
