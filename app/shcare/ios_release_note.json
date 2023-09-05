@@ -1,6 +1,6 @@
 {
-    "store_version": "3.0.1",
-    "minimum_version": "3.0.1",
-    "release_note_vf": "",
-    "release_note_en": ""
+    "store_version": "3.1.3",
+    "minimum_version": "3.1.3",
+    "release_note_vf": "Notifications ajoutées pour vous tenir informé en permanence.",
+    "release_note_en": "Notifications added to keep you always informed."
 }
